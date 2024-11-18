@@ -3,7 +3,6 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Feb 10, 2022 at 05:11 PM
 -- Server version: 5.6.21
 -- PHP Version: 5.6.3
 
